@@ -1,0 +1,10 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Uncached</title><link>https://uncached.dev/</link><language>en-us</language><author>Nilesh Singh &lt;nilesh@uncached.dev></author><rights>(C) 2021</rights><updated>2021-12-28 04:05:59 +0530 +0530</updated><item><title>Hello World!</title><link>https://uncached.dev/posts/hello-world/</link><pubDate>Tue, 28 Dec 2021 04:05:59 +0530</pubDate><author>Nilesh Singh &lt;nilesh@uncached.dev></author><guid>https://uncached.dev/posts/hello-world/</guid><description>&lt;p>Hello! Welcome to my latest attempt to write something meaningful.&lt;/p>
+&lt;p>I am a backend engineer and primarily work on distributed systems. This blog is going to the place where I publish my learnings, findings as an engineer, and stuff I find interesting in general.&lt;/p>
+&lt;p>I have been working with Kubernetes and Go in general, with a mix of JavaScript. I assume I would write about them first, but who knows - &lt;strong>TBD!&lt;/strong>&lt;/p>
+&lt;p>A little about this blog&amp;rsquo;s existence. It has been up for some time now with zero content and lots of unnecessary AWS magic to support it. With Github pages, I am hoping to stop maintaining the site itself and finally do some writing. Let’s see how this goes.&lt;/p>
+&lt;p>Here&amp;rsquo;s to all the optimism 2022 brings and a covid-free future ahead.&lt;/p>
+&lt;p>On to &lt;strong>Blog Post #1&lt;/strong> now.&lt;/p>
+&lt;pre tabindex="0">&lt;code>func main() {
+fmt.Println(&amp;quot;Happy Holidays!&amp;quot;)
+}
+&lt;/code>&lt;/pre></description></item></channel></rss>
